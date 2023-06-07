@@ -1,0 +1,5 @@
+@media (min-width: 801px) {
+    .header-logo {
+        height: auto !important;
+    }
+}
